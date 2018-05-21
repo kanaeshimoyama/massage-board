@@ -82,3 +82,5 @@ class MessagesController extends Controller
 
         return redirect('/');
     }
+    
+}
